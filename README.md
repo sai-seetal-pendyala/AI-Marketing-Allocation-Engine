@@ -21,22 +21,18 @@ Marketing budgets have flatlined at 7.7% of revenue. CMOs are cutting agencies a
 <tr>
 <td align="center" width="25%" valign="top">
 <h1>$258.6B</h1>
-<hr>
 U.S. digital ad market analyzed
 </td>
 <td align="center" width="25%" valign="top">
 <h1>22pt</h1>
-<hr>
 efficiency-to-outcome gap
 </td>
 <td align="center" width="25%" valign="top">
 <h1>1,440</h1>
-<hr>
 scenario combinations modeled
 </td>
 <td align="center" width="25%" valign="top">
 <h1>8</h1>
-<hr>
 channels classified Scale / Test / Hold / Reduce
 </td>
 </tr>
@@ -273,6 +269,8 @@ python code/02_generate_visualizations.py
 ```
 
 All public datasets are included in the [data/](data/) folder. The scenario model script reads from `data/` and outputs `dataset4_allocation_pressure_model.csv`. The visualization script reads all datasets and outputs PNGs to `assets/`.
+
+**Tableau:** The workbook lives in [tableau/Net_Allocation_Pressure_Dashboard.twb](tableau/Net_Allocation_Pressure_Dashboard.twb). It uses **Tableau Desktop 2025.3.x** workbook XML (`source-build` matches 2025.3.2), with a minimal sheet and dashboard so the file is schema-valid (empty `worksheets` / `dashboards` tags cause load errors). After opening, confirm or refresh the text-file path to `data/dataset4_allocation_pressure_model.csv`. On GitHub’s language graph, `.twb` files count as **XML** (Linguist does not define a separate “Tableau” language); CSVs under `data/` are tagged so they do not dominate that graph.
 
 **Data sources:**
 

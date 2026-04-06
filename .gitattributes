@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
+# Normalize line endings
 * text=auto
+
+# Tableau workbooks are XML. Linguist has no "Tableau" language — they appear as "XML" on the repo language graph.
+tableau/*.twb linguist-detectable=true
+tableau/*.twb linguist-language=XML
+
+# Benchmark / scenario CSVs are project inputs (not application source). Excluding them from the language bar
+# keeps percentages aligned with Python + the Tableau workbook (.twb).
+data/*.csv linguist-documentation
