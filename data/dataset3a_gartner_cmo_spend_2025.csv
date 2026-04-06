@@ -1,0 +1,15 @@
+Metric_Category,Metric,Value,Unit,Year,Source
+Budget,Marketing budget as % of company revenue,7.7,%,2025,Gartner 2025 CMO Spend Survey
+Budget,Marketing budget as % of company revenue (prior year),7.7,%,2024,Gartner 2024 CMO Spend Survey
+Budget,CMOs reporting insufficient budget,59,%,2025,Gartner 2025 CMO Spend Survey
+Budget,CMOs reporting insufficient budget (prior year),64,%,2024,Gartner 2024 CMO Spend Survey
+Budget,Paid media share of marketing budget,30.6,%,2025,Gartner 2025 CMO Spend Survey
+Budget,Paid media as % of company revenue,2.4,%,2025,Gartner 2025 CMO Spend Survey
+AI_Productivity,CMOs reporting GenAI improved time efficiency,49,%,2025,Gartner 2025 CMO Spend Survey
+AI_Productivity,CMOs reporting GenAI improved cost efficiency,40,%,2025,Gartner 2025 CMO Spend Survey
+AI_Productivity,CMOs reporting GenAI increased content capacity,27,%,2025,Gartner 2025 CMO Spend Survey
+AI_Productivity,CMOs saying GenAI is not a priority,1,%,2025,Gartner 2025 CMO Spend Survey
+Workforce,CMOs planning to cut agency spending,39,%,2025,Gartner 2025 CMO Spend Survey
+Workforce,CMOs planning to cut labor costs,39,%,2025,Gartner 2025 CMO Spend Survey
+Workforce,CMOs who reduced external agency reliance due to GenAI,22,%,2025,Gartner 2025 CMO Spend Survey
+GenAI_Adoption,Marketing orgs with limited or no GenAI adoption,27,%,2025,Gartner Feb 2025 GenAI Marketing Survey
