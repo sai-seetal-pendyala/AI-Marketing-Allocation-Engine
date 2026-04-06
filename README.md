@@ -64,7 +64,7 @@ channels classified Scale / Test / Hold / Reduce
 | **Domain** | Marketing analytics, channel strategy |
 |---|---|
 | **Context** | Data visualization project proposal |
-| **Course** | MAX 507 -- Visual Analytics, Illinois Institute of Technology |
+| **Course** | MAX 507 -- Visual Analytics, Stuart School of Business |
 | **Tools** | Python, Pandas, Matplotlib, Seaborn, Tableau |
 | **Methods** | Composite index modeling, scenario analysis, allocation classification |
 | **Data** | 4 datasets -- IAB/PwC, SEMrush, Gartner/CMO Survey, scenario model (1,440 rows) |
