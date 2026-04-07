@@ -3,7 +3,7 @@
 
 # Tableau workbooks are XML. Linguist has no "Tableau" language — they appear as "XML" on the repo language graph.
 tableau/*.twb linguist-detectable=true
-tableau/*.twb linguist-language=XML
+tableau/*.twb linguist-language=Tableau
 
 # Benchmark / scenario CSVs are project inputs (not application source). Excluding them from the language bar
 # keeps percentages aligned with Python + the Tableau workbook (.twb).
